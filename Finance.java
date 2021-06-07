@@ -17,6 +17,9 @@ public class Finance extends Event implements Payment{ //2.1 Inheritance & 2.5 I
 		this.eventFees = eventFees;
 		System.out.println("========Finance========");
 		System.out.println("Sum With Us Income Statement");
+		setTotalDonation(3000.00);
+ 		setAdExpenses(500.00);
+ 		setExtraExpenses(100.00);
 		
 		System.out.println("Total sponsor    : RM " + df2.format(this.sponsorFees));
 		if (eventType == 'A'||eventType== 'B' || eventType == 'C')
@@ -65,7 +68,7 @@ public class Finance extends Event implements Payment{ //2.1 Inheritance & 2.5 I
 	
 
 	public double getPayment() {  //2.5 Interface-calTotalEventFeesCollected
-  			return super.eventFees * this.totalNumParticipant;
+  		return eventFees * this.totalNumParticipant;
   	}
 	
 	public void printInfo() { //2.2 Polymorphism
