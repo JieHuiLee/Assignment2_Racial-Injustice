@@ -1,0 +1,110 @@
+Wecome to Sum With Us Website!
+Select option: 
+1. Registration(Participant)
+2. Finance(Admin)
+3. Exit Website
+
+Enter your option (1/2/3): 1
+			 Welcome to Our NGO Organization: Sum With Us
+====================================================================================================
+About Us      : Sum With Us congregations use their financial resources to invest in programs and
+		initiatives that build better relationship between different race in community and
+		alleviation of discrimination.They help to avoid the perpetuate racial injustice.
+
+Our Mission   : The community stands up for prohibition of racial injustice and fair.
+Contact No    : 04-981 4652
+Location      : Sum With Us-NGO, Jalan Ru 1, Changlun, 06050 Bukit Kayu Hitam.
+
+Recent Campaigns: 
+A. Without Us, Without Country
+B. Be Justice to Racial: Everyone Is Same
+C. Try to Hear Other Voice
+D. Global village - Know different cultures from each others
+
+Enter to View More Campaigns Details!
+Which event do you prefer to participate(A/B/C)? 
+B
+
+Event B
+Event Name : Be Justice to Racial: Everyone Is Same
+Date       : 1 July to 5 July 2021
+Time       : 11am to 2pm
+Location   : Online Platform
+Fee        : RM 20
+			 Welcome to Our NGO Organization: Sum With Us
+====================================================================================================
+
+Registration for event B
+Please provide your information to complete registration!
+Enter name: Lee Jie Hui
+Enter age: 22
+Enter gender(F/M): F
+
+Select race: 
+1. Chinese 
+2. Indian
+3. Malay    
+4. Others
+Enter your race(1/2/3/4): 2
+Are you Malaysian(true/false)? true
+
+Select state: 
+1. Johor
+2. Kedah
+3. Kelantan
+4. Melaka
+5. Negeri Sembilan
+6. Pahang
+7. Perak
+8. Perlis
+9. Penang
+10. Selangor
+11. Terengganu
+12. Sabah
+13. Sarawak
+Choose your state(1 to 13): 9
+
+Enter email: jiehui02@gmail.com
+Enter contactNo(without'-'): 0109516862
+
+Please check with your information!
+Name      : Lee Jie Hui
+Age       : 22
+Gender    : Female
+Race      : Indian
+State     : Penang
+Email     : jiehui02@gmail.com
+Contact No: 109516862
+Enter donate amount: RM/USD 50.00
+
+Select Donate Times: A Give Once  B Monthly
+Enter donateTimes(A/B): B
+How many month would you like to donate? 12
+
+Select Donate Method: 
+1.Cash  2.Credit/Debit  3.Account  4. Online Banking
+Enter donateMethod(1/2/3/4): 4
+
+Bank Name:
+1. Maybank
+2. CIMB
+3. Public Bank Bhd
+4. RHB Bank
+5. Hong Leong Bank
+6. AmBank
+7. UOB Bank
+8. Bank Rakyat
+9. OCBC Bank
+10. HSBC Bank Malaysia
+Choose bank name: 4
+Select Bank Name: RHB Bank
+Please enter the bank account no: 
+123456
+Please Key in Tac No: 520947
+Congratulation! You have succesfully done the registration!
+
+Donation Fee: RM 600.00
+Total need to pay: RM 600.0
+			 Welcome to Our NGO Organization: Sum With Us
+====================================================================================================
+The Number of Participant We Have Now: 71 person registered for 
