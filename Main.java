@@ -6,7 +6,7 @@ import java.text.DecimalFormat;
 public class Main {
 	public static void main(String[] args) {
 		
-		Scanner read = new Scanner(System.in);
+	Scanner read = new Scanner(System.in);
         DecimalFormat df2 = new DecimalFormat("0.00");
         
         //SumWithUs orgz= new SumWithUs(); //no need new object for super class
@@ -14,15 +14,15 @@ public class Main {
         int optionCode,totalNumParticipant=0;
         do {
         	System.out.println("\nSelect option: \n1. Registration(Participant)"
-					                          + "\n2. Finance(Admin)"
-					                          + "\n3. Exit Website"); 
+					          + "\n2. Finance(Admin)"
+					          + "\n3. Exit Website"); 
         	System.out.print("\nEnter your option (1/2/3): ");
         	optionCode = read.nextInt();            
         
         if (optionCode == 1) { //Registration
         	Event e= new Event("Sum With Us");
         	Event event= new Event("The community stands up for prohibition of racial injustice and fair.","04-981 4652","Sum With Us-NGO, Jalan Ru 1, Changlun, 06050 Bukit Kayu Hitam.");
-            System.out.println("Which event do you prefer to participate(A/B/C)? ");
+                System.out.println("Which event do you prefer to participate(A/B/C)? ");
     		char eventType = read.next().charAt(0);
     		event.getEventType(eventType);
             Participant participate = new Participant("Sum With Us",eventType);
@@ -38,12 +38,11 @@ public class Main {
           	  else if(eventType =='D' || eventType =='d')
           		  totalNumParticipant= 10 + count; 
          	 Participant p = new Participant("Sum With Us",totalNumParticipant);
-          	 }
+          }
         }
           
         else if (optionCode == 2) { //Finance
         	 Finance finance = new Finance("SumWithUs",51,500.00,30.00);
-        	 
         }
         else if(optionCode ==3){ //Exit Website   
         	Advertisement ad = new Advertisement("Sum With Us ");
@@ -54,5 +53,5 @@ public class Main {
         	System.exit(0);
         }
         } while(optionCode<=3); //It will repeat again the optionCode until the user choose 3, the program will end by advertise the organization!!!
-	    }   
+	}   
 }//end main class
