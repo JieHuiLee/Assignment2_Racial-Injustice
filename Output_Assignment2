@@ -1,4 +1,4 @@
-Wecome to Sum With Us Website!
+Welcome to Sum With Us Website!
 Select option: 
 1. Registration(Participant)
 2. Finance(Admin)
@@ -45,7 +45,7 @@ Select race:
 2. Indian
 3. Malay    
 4. Others
-Enter your race(1/2/3/4): 2
+Enter your race(1/2/3/4): 1
 Are you Malaysian(true/false)? true
 
 Select state: 
@@ -64,22 +64,32 @@ Select state:
 13. Sarawak
 Choose your state(1 to 13): 9
 
-Enter email: jiehui02@gmail.com
-Enter contactNo(without'-'): 0109516862
+Enter email: lee_jie_hui@soc.uum.edu.my
+Enter contactNo(without'-'): 0133343138
 
 Please check with your information!
 Name      : Lee Jie Hui
 Age       : 22
 Gender    : Female
-Race      : Indian
+Race      : Chinese
 State     : Penang
-Email     : jiehui02@gmail.com
-Contact No: 109516862
+Email     : lee_jie_hui@soc.uum.edu.my
+Contact No: 133343138
 Enter donate amount: RM/USD 50.00
 
 Select Donate Times: A Give Once  B Monthly
 Enter donateTimes(A/B): B
-How many month would you like to donate? 12
+How many month would you like to donate? 7
+
+Select Donate Method: 
+1.Cash  2.Credit/Debit  3.Account  4. Online Banking
+Enter donateMethod(1/2/3/4): 3
+Have an PayPal account? Sign in to give faster.(true/false) 
+false
+Enter donate amount: RM/USD 60.00
+
+Select Donate Times: A Give Once  B Monthly
+Enter donateTimes(A/B): A
 
 Select Donate Method: 
 1.Cash  2.Credit/Debit  3.Account  4. Online Banking
@@ -96,15 +106,18 @@ Bank Name:
 8. Bank Rakyat
 9. OCBC Bank
 10. HSBC Bank Malaysia
-Choose bank name: 4
-Select Bank Name: RHB Bank
+Choose bank name: 7
+Select Bank Name: UOB Bank
 Please enter the bank account no: 
-123456
+1234567
+Please Key in Tac No: 520988
+Incorrect!Please Request TacNo and Key In Again!
 Please Key in Tac No: 520947
 Congratulation! You have succesfully done the registration!
+Congratulation! You have succesfully done the registration!
 
-Donation Fee: RM 600.00
-Total need to pay: RM 600.0
+Donation Fee: RM 60.00
+Total need to pay: RM 60.0
 			 Welcome to Our NGO Organization: Sum With Us
 ====================================================================================================
 The Number of Participant We Have Now: 71 person registered for 
@@ -120,12 +133,12 @@ Enter your option (1/2/3): 2
 Sum With Us Income Statement
 Total sponsor    : RM 500.00
 
-Total Event Fees Collected : RM 0.00
-Total donation   : RM 0.00
-Total expenses   : RM 0.00
+Total Event Fees Collected : RM 1530.00
+Total donation   : RM 3000.00
+Total expenses   : RM 600.00
 
 ===============================
-Net Income       : RM 500.00
+Net Income       : RM 4430.00
 
 Select option: 
 1. Registration(Participant)
@@ -151,4 +164,3 @@ Step 3: Tag 5 friends and invite them join together.
 We will welcome to anyone join with us! Let's raise the awareness about racial injustice and prohibit it.
 
 		  ========Thank you for visiting Sum With Us!========
-
