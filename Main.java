@@ -10,7 +10,7 @@ public class Main {
         DecimalFormat df2 = new DecimalFormat("0.00");
         
         //SumWithUs orgz= new SumWithUs(); //no need new object for super class
-        System.out.print("Wecome to Sum With Us Website!");
+        System.out.print("Welcome to Sum With Us Website!");
         int optionCode,totalNumParticipant=0;
         do {
         	System.out.println("\nSelect option: \n1. Registration(Participant)"
@@ -43,9 +43,7 @@ public class Main {
           
         else if (optionCode == 2) { //Finance
         	 Finance finance = new Finance("SumWithUs",51,500.00,30.00);
-        	 finance.setTotalDonation(3000.00);
- 	 		 finance.setAdExpenses(500.00);
- 	 		 finance.setExtraExpenses(100.00);
+        	 
         }
         else if(optionCode ==3){ //Exit Website   
         	Advertisement ad = new Advertisement("Sum With Us ");
